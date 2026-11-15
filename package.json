@@ -1,0 +1,16 @@
+{
+  "name": "claude-store",
+  "version": "1.0.0",
+  "description": "Claude Cheats Storefront with SellAuth Integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "claude-cheats",
+    "sellauth",
+    "storefront"
+  ],
+  "author": "justnow",
+  "license": "ISC"
+}
